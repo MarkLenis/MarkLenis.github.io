@@ -1,0 +1,21 @@
+.contact{
+	border-bottom-width: 0px;
+}
+
+img {
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-color: white;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+body {
+	margin: 0px;
+}
+
+html {
+	border: none;
+	border-width: 0px;
+}
